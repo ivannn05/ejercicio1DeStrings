@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\bin\Debug\net6.0\ejercicio1DeStrings.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\bin\Debug\net6.0\ejercicio1DeStrings.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\bin\Debug\net6.0\ejercicio1DeStrings.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\bin\Debug\net6.0\ejercicio1DeStrings.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\bin\Debug\net6.0\ejercicio1DeStrings.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\refint\ejercicio1DeStrings.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ejercicio1DeStrings.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeStrings\obj\Debug\net6.0\ref\ejercicio1DeStrings.dll
